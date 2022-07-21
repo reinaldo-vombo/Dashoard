@@ -1,0 +1,25 @@
+.userList {
+  flex: 4;
+}
+.userList-2 {
+  display: flex;
+  align-items: center;
+}
+
+.userImg {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+.userListDelete {
+  color: red;
+  cursor: pointer;
+  margin-right: 10px;
+}
+.userListDeletet {
+  color: green;
+  cursor: pointer;
+  margin-top: 22px;
+}
